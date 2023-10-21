@@ -1,2 +1,1 @@
-# Pizza
-Thinkful Github learning
+# pizza
